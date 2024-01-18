@@ -1,2 +1,4 @@
 All the expences should be input in debit section.
 All the benifit and earning should be input in credit section.
+
+Income=Credit && Expence=Debit
